@@ -115,7 +115,8 @@ header{
   background-repeat: no-repeat;
   grid-row-start: 1;
   grid-row-end: span 1;
-  grid-column: 1 / span 3;
+  grid-column-start: 1;
+  grid-column-end: span 3;
 }
 
 
