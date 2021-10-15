@@ -194,8 +194,7 @@ header{
   padding: 30px;
 
   /* Your code here */
-  text-align: left;
-  margin: auto;
+  align-self: center;
 }
 
 @media screen and (min-width: 800px){
